@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/HeyPuter/puter/compare/v2.3.0...v2.3.1) (2024-05-29)
+
+
+### Bug Fixes
+
+* check subdomain earlier for /apps ([4e3a24e](https://github.com/HeyPuter/puter/commit/4e3a24e6093e279e210765e07e436f4e63b74072))
+
 ## 2.3.0 (2024-05-22)
 
 
